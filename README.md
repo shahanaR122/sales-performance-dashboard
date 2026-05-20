@@ -19,6 +19,8 @@ An interactive Excel dashboard developed to analyze sales performance, profit tr
 ## Dashboard Preview
 
 ![Dashboard](screenshots/Dashboard.png)
+![Dashboard](screenshots/Dashboard2.png)
+![Dashboard](screenshots/Dashboard3.png)
 
 ## Author
 Shahana R
