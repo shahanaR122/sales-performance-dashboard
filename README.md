@@ -17,7 +17,6 @@ An interactive Excel dashboard developed to analyze sales performance, profit tr
 - Conditional Formatting
 
 ## Dashboard Preview
-## Dashboard Preview
 
 ![Dashboard](screenshots/Dashboard.png)
 
